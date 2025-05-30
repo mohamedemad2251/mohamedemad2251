@@ -1,18 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mohamed 👋</h1>
+<h3 align="center">Junior Software Developer | Odoo Enthusiast | Future Full-Stack Dev</h3>
 
-<!--
-**mohamedemad2251/mohamedemad2251** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/themohamedemad">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:mohamedemad2251@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-red?style=flat-square&logo=gmail" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=mohamedemad2251&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedemad2251&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedemad2251&hide_progress=true&theme=radical)
+### 🧠 About Me
+
+- 🎓 Electrical Power Engineering Graduate from **Cairo University – Credit Hours System** (Class of 2023) (**GPA: 3.51/4**)
+- 👨‍💻 Worked in multiple fields like **Electrical Engineering**, **Embedded Software Development** & **Software/Web Development**
+- 🎯 Goal: I thrive to be **the absolute best** at what I do. I'm a quick learner and a self-initiating individual.
+
+---
+
+### 🛠️ Tech Stack
+
+<!-- Add or remove icons based on your tech stack -->
+<p align="center">
+  <img height="30vh" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img height="30vh" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img height="30vh" src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedemad2251&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedemad2251&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 💡 Featured Repositories
+
+<div align="center">
+  <a href="https://github.com/mohamedemad2251/SMART-HOME-SYSTEM">
+    <img width=50% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=SMART-HOME-SYSTEM&theme=radical" />
+  </a>
+   <a href="https://github.com/mohamedemad2251/EMPLOYEE-MANAGER">
+    <img width=45% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=EMPLOYEE-MANAGER&theme=radical" />
+  </a>
+  
+  <a href="https://github.com/mohamedemad2251/atmega32-drivers">
+    <img width=50% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=atmega32-drivers&theme=radical" />
+  </a>
+  <a href="https://github.com/mohamedemad2251/TASK-MANAGER">
+    <img width=45% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=TASK-MANAGER&theme=radical" />
+  </a>
+
+ 
+</div>
+
+
+
+
+
+---
+
+### 🔭 Currently Learning
+
+- 📦 Advanced Odoo development techniques
+- 💻 Frontend: JavaScript, React, and modern web standards
+- 🧠 Database & SQL fundamentals (one normalized table at a time)
+- 🌍 Full-Stack Architecture, one layer deeper every weekend
+
+---
+
+> 💬 _"If I Die Here, Then I’m A Man That Could Only Make It This Far."_ — Roronoa Zoro
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/12/zoro-three-sword-style-one-piece-featured.jpg"/>
+
