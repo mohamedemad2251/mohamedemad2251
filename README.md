@@ -42,34 +42,38 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedemad2251&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedemad2251&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div style="display: flex; gap: 20px;">
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedemad2251&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <br/>
+    <br/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedemad2251&layout=compact&theme=radical" alt="Top Languages" />
+  </p>
+</div>
 
 ---
 
 ### 💡 Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/mohamedemad2251/SMART-HOME-SYSTEM">
-    <img width=50% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=SMART-HOME-SYSTEM&theme=radical" />
-  </a>
-   <a href="https://github.com/mohamedemad2251/estate">
-    <img width=45% height=160vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=estate&theme=radical" />
-  </a>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; flex: 1; gap: 20px; height: 100vh;">
   
-  <a href="https://github.com/mohamedemad2251/atmega32-drivers">
-    <img width=50% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=atmega32-drivers&theme=radical" />
+  <a href="https://github.com/mohamedemad2251/SMART-HOME-SYSTEM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=SMART-HOME-SYSTEM&theme=radical&hide_border=true" width="45%" />
   </a>
+
+  <a href="https://github.com/mohamedemad2251/estate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=estate&theme=radical&hide_border=true" width="45%"/>
+  </a>
+
+  <a href="https://github.com/mohamedemad2251/web-dev-form-simple">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=web-dev-form-simple&theme=radical&hide_border=true" width="45%"/>
+  </a>
+
   <a href="https://github.com/mohamedemad2251/TASK-MANAGER">
-    <img width=45% height=150vh src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=TASK-MANAGER&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=TASK-MANAGER&theme=radical&hide_border=true" width="45%"/>
   </a>
 
- 
 </div>
-
 
 
 
