@@ -55,7 +55,7 @@
 
 ### 💡 Featured Repositories
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; flex: 1; gap: 20px; height: 100vh;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; flex: 1; gap: 20px;">
   
   <a href="https://github.com/mohamedemad2251/SMART-HOME-SYSTEM">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=SMART-HOME-SYSTEM&theme=radical&hide_border=true" width="45%" />
@@ -65,8 +65,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=estate&theme=radical&hide_border=true" width="45%"/>
   </a>
 
-  <a href="https://github.com/mohamedemad2251/web-dev-form-simple">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=web-dev-form-simple&theme=radical&hide_border=true" width="45%"/>
+  <a href="https://github.com/mohamedemad2251/lumina-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohamedemad2251&repo=lumina-website&theme=radical&hide_border=true" width="45%"/>
   </a>
 
   <a href="https://github.com/mohamedemad2251/TASK-MANAGER">
