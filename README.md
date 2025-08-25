@@ -83,10 +83,12 @@
 
 ### 🔭 Currently Learning
 
-- 📦 Advanced Odoo development techniques
-- 💻 Frontend: JavaScript, React, and modern web standards
-- 🧠 Database & SQL fundamentals (one normalized table at a time)
-- 🌍 Full-Stack Architecture, one layer deeper every weekend
+<ul>
+  <li>📦 Advanced Odoo development techniques</li>
+  <li>💻 Frontend: JavaScript, React, and modern web standards</li>
+  <li>🧠 Database & SQL fundamentals (one normalized table at a time)</li>
+  <li>🌍 Full-Stack Architecture, one layer deeper every weekend</li>
+</ul>
 
 ---
 
